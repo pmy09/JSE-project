@@ -1,2 +1,3 @@
 # JSE-project
-project for javascript essentials course on udemy
+Final project for javascript essentials course on udemy
+
